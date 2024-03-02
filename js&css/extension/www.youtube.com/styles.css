@@ -1,3 +1,8 @@
+*{
+	width : 100%;
+}
+
+
 /* fix for youtube's player moving in from the right side */
 html {overflow-x: hidden !important; }  
 /* html {overflow-x: hidden !important; }  
